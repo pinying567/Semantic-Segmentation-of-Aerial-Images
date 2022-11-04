@@ -42,7 +42,7 @@ Image size: `512x512`, Mask size: `512x512`. There are 7 possible classes for ea
 
 * train/
     - Contains 2000 image-mask (ground truth) pairs
-    - Satellite images are named 'xxxx_sat.jpg’
+    - Satellite images are named 'xxxx_sat.jpg'
     - Mask images (ground truth) are named 'xxxx_mask.png'
 * validation/
     - Contains 257 image-mask pairs
